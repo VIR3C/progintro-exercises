@@ -6,5 +6,5 @@ Useful links:
 - [Git cheat sheet](https://git-scm.com/cheat-sheet)
 
 ## Formatting Examples:
-1. *Cursiva* texto.
-2. **Negrita** texto.
+1. *Cursiva* énfasis.
+2. **Negrita** énfasis.
