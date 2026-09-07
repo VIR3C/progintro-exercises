@@ -6,5 +6,5 @@ Useful links:
 - [Git cheat sheet](https://git-scm.com/cheat-sheet)
 
 ## Formatting Examples:
-1. *Italic* text.
-2. **Bold** Text.
+1. *Italic* emphasis.
+2. **Bold** emphasis.
