@@ -8,4 +8,3 @@ Useful links:
 ## Formatting Examples:
 1. *Cursiva* énfasis.
 2. **Negrita** énfasis.
-3. 
